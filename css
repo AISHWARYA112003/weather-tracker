@@ -1,0 +1,41 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #e0f7fa;
+  padding: 20px;
+}
+
+input {
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+}
+
+button {
+  padding: 10px;
+  background-color: #00796b;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #004d40;
+}
+
+#weatherInfo {
+  margin-top: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: #fff;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+}
